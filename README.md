@@ -18,6 +18,8 @@
 my-project
   package.json                  #引导页面 
 ```
+- vue todo
+
 - 安装vue webpack  
 ```npm i webpack webpack-cli vue vue-router vue-loader```  
 Tip: webpack4 版本需要安装webpack-cli  
