@@ -18,7 +18,7 @@
 my-project
   package.json                  #引导页面 
 ```
-- vue todo
+- vue
 
 - 安装vue webpack  
 ```npm i webpack webpack-cli vue vue-router vue-loader```  
