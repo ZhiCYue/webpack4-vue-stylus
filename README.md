@@ -1,5 +1,5 @@
 # webpack4+vue+stylus
-
+# 实现简单的todo 任务列表功能
 
 ## 运行
 - 安装依赖  
@@ -18,7 +18,6 @@
 my-project
   package.json                  #引导页面 
 ```
-- vue todo
 
 - 安装vue webpack  
 ```npm i webpack webpack-cli vue vue-router vue-loader```  
